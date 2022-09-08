@@ -1,9 +1,9 @@
 #include<stdio.h>
 /**
  *
- * Description: main function - code using puts
+ * main - Entry point
  *
- *
+ * Description: 'the program's description'
  *
  * Return: Always 0 (Success)
  *
