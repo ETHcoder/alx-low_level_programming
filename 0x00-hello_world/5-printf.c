@@ -1,13 +1,13 @@
 #include<stdio.h>
-/**
+/*
  *
- *  * main - function
- *  *
- *  *
+ * main - Entry point
  *
- *  * code by k
  *
- *  */
+ *
+ * Return: Always 0 (Success)
+ *
+ */
 int main(void)
 
 {

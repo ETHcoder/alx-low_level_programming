@@ -1,11 +1,11 @@
 #include<stdio.h>
 /*
  *
- * main - in function
+ * main - Entry point
  *
  *
  *
- * code by k
+ * Return: Always 0 (Success)
  *
  */
 int main(void)
