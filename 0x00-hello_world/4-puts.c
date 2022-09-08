@@ -1,5 +1,13 @@
 #include<stdio.h>
-
+/**
+ *
+ *  * main - in function
+ *
+ *   *
+ *
+ *    * code by k
+ *
+ *     */
 int main(void)
 
 {
